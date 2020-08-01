@@ -1,0 +1,31 @@
+{
+  "book": [
+
+    {
+      "Id": "2",
+      "Name": "Glory to the END!",
+      "Author": "Dr. Robert Johnson",
+      "PublicationYear": "1999",
+      "Price": "119.99",
+      "NoOfPublications": "169"
+    },
+
+    {
+      "Id": "3",
+      "Name": "Super Hero",
+      "Author": "Jack Brown",
+      "PublicationYear": "1970",
+      "Price": "99.99",
+      "NoOfPublications": "50"
+    }
+
+    {
+      "Id": "4",
+      "Name": "Super Dad",
+      "Author": "Jack Black",
+      "PublicationYear": "2001",
+      "Price": "50.99",
+      "NoOfPublications": "100"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <Books>
+
+    <Book>
+
+      <Id>2</Id>
+
+      <Name>Glory to the END!</Name>
+
+      <Author>Dr. Robert Johnson</Author>
+
+      <FirstPublicationYear>1999</FirstPublicationYear>
+      
+      <Price>119.99</Price>
+
+      <NoOfPublications>169</NoOfPublications>
+
+    </Book>
+
+    <Book>
+
+      <Id>3</Id>
+
+      <Name>Super Hero</Name>
+
+      <Author>Jack Brown</Author>
+
+      <FirstPublicationYear>1970</FirstPublicationYear>
+      
+      <Price>99.99</Price>
+
+      <NoOfPublications>50</NoOfPublications>
+
+    </Book>
+
+	  <Book>
+
+		  <Id>4</Id>
+
+		  <Name>Super Dad</Name>
+
+		  <Author>Jack Black</Author>
+
+		  <FirstPublicationYear>2001</FirstPublicationYear>
+
+		  <Price>50.99</Price>
+
+		  <NoOfPublications>100</NoOfPublications>
+
+	  </Book>
+
+  </Books>
